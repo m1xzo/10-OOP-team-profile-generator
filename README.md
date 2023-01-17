@@ -39,7 +39,7 @@
   If you have any additional questions, please do not hesitate to contact me:
   | GitHub     | Email      |
   | ---------- | ---------- |
-  | [@m1xzo](https://www.github.com/m1xzo) | zoumacy@gmail.com |
+  | [@m1xzo](https://www.github.com/m1xzo) |  |
   ## License
   This application is released under the *[MIT License](http://choosealicense.com/licenses/mit/)*.
   <details>
